@@ -1,0 +1,156 @@
+Uri: https://designomax.com/
+File Name: C:\Downloaded Web Sites\designomax.com\index.htm
+Content Type: text/html
+
+Uri: https://designomax.com/assets/css/style.css
+File Name: C:\Downloaded Web Sites\designomax.com\assets\css\style.css
+Content Type: text/css
+
+Uri: https://designomax.com/assets/images/aboutuslogo.svg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\aboutuslogo.svg
+Content Type: image/svg+xml
+
+Uri: https://designomax.com/assets/images/hero-banner.png
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\hero-banner.png
+Content Type: image/png
+
+Uri: https://designomax.com/assets/images/hero-bg.png
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\hero-bg.png
+Content Type: image/png
+
+Uri: https://designomax.com/assets/images/hero-icon-1.png
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\hero-icon-1.png
+Content Type: image/png
+
+Uri: https://designomax.com/assets/images/hero-icon-2.png
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\hero-icon-2.png
+Content Type: image/png
+
+Uri: https://designomax.com/assets/images/hero-icon-3.png
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\hero-icon-3.png
+Content Type: image/png
+
+Uri: https://designomax.com/assets/images/logo.svg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://designomax.com/assets/images/logo1.svg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\logo1.svg
+Content Type: image/svg+xml
+
+Uri: https://designomax.com/assets/images/logo2.svg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\logo2.svg
+Content Type: image/svg+xml
+
+Uri: https://designomax.com/assets/images/logo3.svg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\logo3.svg
+Content Type: image/svg+xml
+
+Uri: https://designomax.com/assets/images/logo4.svg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\logo4.svg
+Content Type: image/svg+xml
+
+Uri: https://designomax.com/assets/images/logo5.svg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\logo5.svg
+Content Type: image/svg+xml
+
+Uri: https://designomax.com/assets/images/logo6.svg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\logo6.svg
+Content Type: image/svg+xml
+
+Uri: https://designomax.com/assets/images/logo7.svg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\logo7.svg
+Content Type: image/svg+xml
+
+Uri: https://designomax.com/assets/images/logo8.svg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\logo8.svg
+Content Type: image/svg+xml
+
+Uri: https://designomax.com/assets/images/process-banner.png
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\process-banner.png
+Content Type: image/png
+
+Uri: https://designomax.com/assets/images/process-bg.png
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\process-bg.png
+Content Type: image/png
+
+Uri: https://designomax.com/assets/images/process-icon-1.png
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\process-icon-1.png
+Content Type: image/png
+
+Uri: https://designomax.com/assets/images/process-icon-2.png
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\process-icon-2.png
+Content Type: image/png
+
+Uri: https://designomax.com/assets/images/process-icon-3.png
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\process-icon-3.png
+Content Type: image/png
+
+Uri: https://designomax.com/assets/images/process-icon-4.png
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\process-icon-4.png
+Content Type: image/png
+
+Uri: https://designomax.com/assets/images/team1.jpg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\team1.jpg
+Content Type: image/jpeg
+
+Uri: https://designomax.com/assets/images/team2.jpg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\team2.jpg
+Content Type: image/jpeg
+
+Uri: https://designomax.com/assets/images/team3.jpg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\team3.jpg
+Content Type: image/jpeg
+
+Uri: https://designomax.com/assets/images/team4.jpg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\team4.jpg
+Content Type: image/jpeg
+
+Uri: https://designomax.com/assets/images/team5.jpg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\team5.jpg
+Content Type: image/jpeg
+
+Uri: https://designomax.com/assets/images/whatsapp.png
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\whatsapp.png
+Content Type: image/png
+
+Uri: https://designomax.com/assets/images/work-1.jpg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\work-1.jpg
+Content Type: image/jpeg
+
+Uri: https://designomax.com/assets/images/work-2.jpg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\work-2.jpg
+Content Type: image/jpeg
+
+Uri: https://designomax.com/assets/images/work-3.jpg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\work-3.jpg
+Content Type: image/jpeg
+
+Uri: https://designomax.com/assets/images/work-4.jpg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\work-4.jpg
+Content Type: image/jpeg
+
+Uri: https://designomax.com/assets/images/work-5.jpg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\work-5.jpg
+Content Type: image/jpeg
+
+Uri: https://designomax.com/assets/images/work-6.jpg
+File Name: C:\Downloaded Web Sites\designomax.com\assets\images\work-6.jpg
+Content Type: image/jpeg
+
+Uri: https://designomax.com/assets/js/script.js
+File Name: C:\Downloaded Web Sites\designomax.com\assets\js\script.js
+Content Type: application/x-javascript
+
+Uri: https://designomax.com/favicon.svg
+File Name: C:\Downloaded Web Sites\designomax.com\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://designomax.com/privacy-policy.html
+File Name: C:\Downloaded Web Sites\designomax.com\privacy-policy.html
+Content Type: text/html
+
+Uri: https://designomax.com/terms-conditions.html
+File Name: C:\Downloaded Web Sites\designomax.com\terms-conditions.html
+Content Type: text/html
+
